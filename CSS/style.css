@@ -127,18 +127,17 @@ i{
     display: flex;
     justify-content: center;
 }
-/* .pfran{
+ .pfran{
     margin-top: 50px;
-} */
-    
-/* .span{
+} 
+     .span{
    
     font-family: 'futurak';
     font-style: normal;
     font-weight: 400;
     font-size: 52px;
     line-height: 62px;
-=======
+
 body{
     margin: 0px;
     }
@@ -229,9 +228,9 @@ i{
     width: auto;
     height: 50px;
 }
-/* .card1, .card2, .card3{
+ .card1, .card2, .card3{
     height: 150px;
-} */
+} 
 .cardimg1, .cardimg2, .cardimg3 {
     background-color: white;
     display: block;
@@ -279,5 +278,5 @@ i{
     font-weight: 400;
     font-size: 52px;
     line-height: 62px;
->>>>>>> 1248b6eda9a4ba9f6683bbafd32b41f166007734
+
 } */
