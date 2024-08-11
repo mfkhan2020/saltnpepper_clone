@@ -1,0 +1,291 @@
+body{
+    margin: 0px;
+    }
+.header{
+    border: 2px solid black;
+    background-color: black; 
+    height: 92px;  
+}
+.imglogo{
+    width: 180px;
+    margin-left: 200%;
+    padding-top: 5px;
+}
+ul{
+    justify-content: center;
+}
+li{
+    display: inline;
+    color: white;
+    margin-left: 30px;
+}
+.header,.menu{
+    display: flex;
+}
+.menu{
+    margin-left: 30%;
+    padding-top: 20px; 
+}
+.btn{
+    padding-top: 15px;
+    margin-left: 40px;
+    
+}
+.b1,.b2{
+    padding: 20px;
+    border-radius: 30px;
+    border: 1px solid white;
+}
+.b1{
+    background-color: transparent;
+    color: white;
+    margin-right: 20px;
+}
+.b2{
+    background-color: red;
+    color: white;
+    border-color: red;
+
+}
+i{
+    background-color: white;
+    color: red;
+    border-radius: 50%;
+    padding: 3px;
+    margin-left: 5px;
+}
+.img1{
+    margin-left: 0px;
+    width: 100%;
+    height: auto;
+    margin-top: -5px;
+}
+.brands{
+    background-color: black;
+  
+    height: 600px;
+    color: white;
+    text-align: center;
+    margin-top: -20px;
+    padding-top: 200px;
+   
+}
+.p{
+    font-size: 80px;
+    font-family: futurak;
+}
+.p1{
+    font-size: 65px;
+    margin-top: -60px;
+
+}
+.para{
+    font-size: 20px;
+    margin-top: -30px;
+    color: rgba(255, 255, 255, 0.7);
+
+}
+/* .span{
+   
+    font-family: 'futurak';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 62px;
+} */
+ .cards{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+ .card1, .card2, .card3{
+    background-color: white;
+    margin-left: 30px;
+    border-radius: 5px;
+    height: 130px;
+}
+ .cardb1, .cardb2, .cardb3{
+    background-color: transparent;
+    margin-top: 50px;
+    color: white;
+    padding: 20px;
+    border-radius: 25px;
+    width: 174px;
+    height: 50px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+ .franchise{
+    background-color: black;
+    color: white;
+    
+}
+.franp1, .franp2, .franp3{
+    color: white;
+    text-align: center;
+    line-height: 10px;
+}
+.franp1{
+    font-size: 70px;
+    
+    
+}
+.franp2{
+    font-size: 50px;
+}
+.franp3{
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.addrmain{
+    background-color: black;
+    padding: 50px;
+}
+.addrboth{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+.addrhead{
+    color: white;
+}
+.addrp1{
+    color: red;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+.addrp2{
+    font-size: 40px;
+}
+.fa-solid{
+    background-color: transparent;
+}
+.addrp3, .addrp4, .fa-location-pin, .fa-phone{
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 20px;
+}
+.addrb1{
+    background-color: transparent;
+    margin-top: 20px;
+    color: white;
+    padding: 10px;
+    border-radius: 25px;
+    width: 174px;
+    height: 50px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.exfran{
+    background-color: black;
+    border: solid;
+}
+.exfranhead{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.exfran1{
+    text-align: center;
+    padding: 30px;
+    width: 350px;
+    height: auto;
+}
+.exfranp1{
+    font-size: 15px;
+}
+.exfranp2{
+    font-size: 25px;
+    font-weight: 800;
+}
+.exfranp3{
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.7);
+}
+.exfranb1{
+    background-color: transparent;
+    margin-top: 20px;
+    color: white;
+    padding: 10px;
+    border-radius: 25px;
+    width: 174px;
+    height: 50px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.exfranimg1{
+    width: 350px;
+    height: 250px;
+}
+.vilfranimg{
+    width: 600px;
+}
+.exfransoon1{
+    width: 350px;
+    height: 230px;
+    background-color: white;
+    color: black;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.exfransoonp1{
+    color: red;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-size: 10px;
+    
+}
+.exfransoonp2{
+    font-size: 20px;
+}
+.exfransoonrow1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.socialfeedimg{
+    width: 250px;
+    height: 250px;
+}
+.sitemapbox{
+    color: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    
+}
+.sitemapbox1{
+    width: 360px;
+}
+.sitemaplink{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.7);
+}
+.sitemapimg{
+    width: 150px;
+
+}
+.sitemapmain{
+    display: flex;
+    justify-content: space-evenly;
+}
+.sitemaplink1{
+    display: block;
+    margin-top: 10px;
+}
+.sitelinkh1{
+    font-size: 20px;
+    color: white;
+}
+.fa-facebook, .fa-instagram, .fa-twitter{
+    background-color: red;
+    color: white;
+    /* width: 50px;
+    height: 50px; */
+    padding: 15px;
+}
+.storelink{
+    display: block;
+    margin-top: 20px;
+}
+.footp{
+    color: rgba(255, 255, 255, 0.7);
+    
+    text-align: center;
+}
